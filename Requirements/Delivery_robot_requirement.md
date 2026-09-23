@@ -14,4 +14,3 @@
 | R8 | If the battery becomes critically low while the robot is NAVIGATING, the robot shall stop the delivery journey and transition to RETURNING. |
 | R9 | The robot shall not transition directly from IDLE to DELIVERING without first receiving a delivery request and navigating to the destination. |
 | R10 | The robot shall not transition from AVOIDING_OBSTACLE directly to DELIVERING; it shall first return to NAVIGATING and reach the destination. |
-Extract delivery robot requirements
